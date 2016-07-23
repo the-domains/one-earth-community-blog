@@ -4,8 +4,15 @@
         <description><![CDATA[One Earth Community  Blog]]></description>
         <link>https://thegrid.ai/one-earth-community-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jul 2016 23:39:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2016 23:41:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/one-earth-community-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Down the Galactic Rabbit Hole...]]></title>
+            <description><![CDATA[<article><h1>Down the Galactic Rabbit Hole...</h1><p>Astrophysicists seem to have many theories about what most of us label as just plain mysterious. Imagination guides thinkers in portraying these events as part of futuristic movie adventures. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0f0466b-061e-4651-ba07-adb7300caee2.jpg"></article>]]></description>
+            <link>http://news.sky.com/story/1716155/sleeping-black-hole-wakes-to-devour-passing-star</link>
+            <guid isPermaLink="false">7f4e3b1f-aa0d-4a96-8548-0586b356555b</guid>
+            <pubDate>Sat, 23 Jul 2016 23:41:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Being Smart about energy production and energy consumption go hand in hand...]]></title>
             <description><![CDATA[<article><h1>Being Smart about energy production and energy consumption go hand in hand...</h1><p>Access the survey results 'State of Industrial Internet Application Development' to learn about latest challenges, trends and opportunities with Industrial IoT, brought to you in partnership with GE Digital. The sun has an efficiency problem. Yes, it produces enough energy every hour to power 2,880 trillion light bulbs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/05b3ca329ddc6151e2678daf9af69e75ba949ec9.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.nasa.gov/image-feature/goddard/2016/hubble-spies-the-barred-spiral-galaxy-ngc-4394/</link>
             <guid isPermaLink="false">9a5753c0-8d96-4eea-b4c2-ce31cc6b2b14</guid>
             <pubDate>Sat, 23 Jul 2016 22:57:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Splash of color from Estonia]]></title>
-            <description><![CDATA[<article><h1>Splash of color from Estonia</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7f9caf4164cdce8c939bb33abdd2f314/croprotate.jpg?cropheight=1265&cropwidth=1900&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F69e65605-e588-4f71-add3-b1d797a5d3ba.jpg&x=0&y=0"></article>]]></description>
-            <link>http://www.nationalgeographic.com/travel/photography/weeks-best-travel-photos/splash-of-color/?utm_source=Twitter&amp;utm_medium=Social&amp;utm_content=link_tw20160618travel-travelpics&amp;utm_campaign=Content&amp;sf28966311=1</link>
-            <guid isPermaLink="false">2ae7648b-8b9a-470f-bb6c-a36ce5f291ef</guid>
-            <pubDate>Sat, 23 Jul 2016 22:56:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
