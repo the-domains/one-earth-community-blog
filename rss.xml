@@ -4,8 +4,15 @@
         <description><![CDATA[One Earth Community  Blog]]></description>
         <link>https://thegrid.ai/one-earth-community-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jul 2016 22:49:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2016 22:50:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/one-earth-community-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Arctic Foxes 'Grow' Their Own Gardens]]></title>
+            <description><![CDATA[<article><h1>Arctic Foxes 'Grow' Their Own Gardens</h1><p>mother nature shows once more how adaptable and innovative her creatures can be...rao </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/24cacd6cc74b9aed97421ade004f989346021d17.jpg"></article>]]></description>
+            <link>http://news.nationalgeographic.com/2016/05/160520-arctic-foxes-animals-science-alaska/</link>
+            <guid isPermaLink="false">83328f31-137d-4a93-9abd-cc549aa5925a</guid>
+            <pubDate>Sat, 23 Jul 2016 22:50:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Singapore lightning storm: 'Scary but beautiful' images captured - BBC News]]></title>
             <description><![CDATA[<article><h1>Singapore lightning storm: 'Scary but beautiful' images captured - BBC News</h1><p>Singapore lightning storm: 'Scary but beautiful' images captured</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc19a9bc2f6bf581ceea695dd856dfa21c019833.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.csmonitor.com/Business/In-Gear/2016/0528/Elon-Musk-vs-Warren-Buffett-how-two-titans-see-carbon-free-electricity</link>
             <guid isPermaLink="false">96253f48-0055-4344-8359-a0fa2f289151</guid>
             <pubDate>Sat, 23 Jul 2016 22:43:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="Friday Fact: Each of the 2,000 species of firefly has a unique blinking pattern.pic.twitter.com/tVtEOKAc3p" src="https://pbs.twimg.com/media/ClLyqv6WMAA_Xu6.jpg:large">]]></description>
-            <link>https://twitter.com/natgeo/status/743923708385959936</link>
-            <guid isPermaLink="false">3a685d49-ce32-41a9-afc9-a566e7d32582</guid>
-            <pubDate>Sat, 23 Jul 2016 22:43:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
