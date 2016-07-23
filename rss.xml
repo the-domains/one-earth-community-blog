@@ -4,8 +4,15 @@
         <description><![CDATA[One Earth Community  Blog]]></description>
         <link>https://thegrid.ai/one-earth-community-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jul 2016 23:34:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2016 23:39:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/one-earth-community-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Being Smart about energy production and energy consumption go hand in hand...]]></title>
+            <description><![CDATA[<article><h1>Being Smart about energy production and energy consumption go hand in hand...</h1><p>Access the survey results 'State of Industrial Internet Application Development' to learn about latest challenges, trends and opportunities with Industrial IoT, brought to you in partnership with GE Digital. The sun has an efficiency problem. Yes, it produces enough energy every hour to power 2,880 trillion light bulbs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/05b3ca329ddc6151e2678daf9af69e75ba949ec9.jpg"></article>]]></description>
+            <link>https://dzone.com/articles/could-a-smart-water-heater-be-part-of-the-renewabl</link>
+            <guid isPermaLink="false">4685b26b-cd43-4ca4-b77b-80927169e631</guid>
+            <pubDate>Sat, 23 Jul 2016 23:39:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How Urban Parks Are Bringing Nature Close to Home]]></title>
             <description><![CDATA[<article><h1>How Urban Parks Are Bringing Nature Close to Home</h1><p>In a spectacular yearlong event, the National Geographic Channel series America's National Parks will show you the parks' natural wonders-both big and small-as you have never experienced them before. There is magic here, the delight in being not quite lost and not quite found.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0994ab424b61edb15256ec68b7622dc91bc10ea7.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.nationalgeographic.com/travel/photography/weeks-best-travel-photos/splash-of-color/?utm_source=Twitter&amp;utm_medium=Social&amp;utm_content=link_tw20160618travel-travelpics&amp;utm_campaign=Content&amp;sf28966311=1</link>
             <guid isPermaLink="false">2ae7648b-8b9a-470f-bb6c-a36ce5f291ef</guid>
             <pubDate>Sat, 23 Jul 2016 22:56:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Maker of Things]]></title>
-            <description><![CDATA[<article><h1>The Maker of Things</h1><p>In the days of slide rules and hand shovels... We were makers of things. Extraordinary things that shaped society. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/35f374b199921ac43185188f3c617f03ab2c9102.jpg"></article>]]></description>
-            <link>https://medium.com/@rands/the-maker-of-things-9c3f23b897a1</link>
-            <guid isPermaLink="false">64b4fadc-bb00-4592-b695-1af12dcf0ded</guid>
-            <pubDate>Sat, 23 Jul 2016 22:54:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
