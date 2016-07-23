@@ -4,8 +4,15 @@
         <description><![CDATA[One Earth Community  Blog]]></description>
         <link>https://thegrid.ai/one-earth-community-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jul 2016 22:43:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2016 22:44:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/one-earth-community-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[great message]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/39e5ceb8-ae07-4690-b806-414fbb111ce9.png" alt="" title="">]]></description>
+            <link>https://thegrid.ai/one-earth-community-blog/great-message/index.html</link>
+            <guid isPermaLink="false">34fc4d5e-3832-4c12-b2ee-cab8b81e071a</guid>
+            <pubDate>Sat, 23 Jul 2016 22:44:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Elon Musk vs Warren Buffett: how two titans see carbon-free electricity]]></title>
             <description><![CDATA[<article><h1>Elon Musk vs Warren Buffett: how two titans see carbon-free electricity</h1><p>So we’re talking the what is going on in Nevada...hydro vs solar. Both are vital components in our energy production. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b854f10cc0e29c5282ade522151fa78b1c785be4.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.theguardian.com/science/2016/may/18/the-fabulous-fossils-of-messel-a-colourful-world-of-birds-and-beetles</link>
             <guid isPermaLink="false">f9145b50-b0f2-4270-8bf4-4de8e3ce5c28</guid>
             <pubDate>Sat, 23 Jul 2016 22:36:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wind, Cold, and Altitude Sickness: Winter at the South Pole]]></title>
-            <description><![CDATA[<article><h1>Wind, Cold, and Altitude Sickness: Winter at the South Pole</h1><p>Right now, a daring rescue mission is racing against time and harsh conditions to save a sick worker at the South Pole. Dangerous winds, punishing cold, and round-the-clock darkness make flights to Antarctica extremely rare at this time of year.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2d095cdf0eff14804ff3e3e11bec233c/croprotate.jpg?cropheight=1366&cropwidth=2048&degrees=0&input=http%3A%2F%2Fwww.nationalgeographic.com%2Fcontent%2Fdam%2Fadventure%2Frights-exempt%2Fantarctica-south-pole-follow-up%2Fsven-lidstrom-south-pole-night.ngsversion.1466459546179.jpg&x=0&y=0"></article>]]></description>
-            <link>http://www.nationalgeographic.com/adventure/features/south-pole-Antarctica-winter-weather/?utm_source=Twitter&amp;utm_medium=Social&amp;utm_content=link_tw20160625adv-southpole&amp;utm_campaign=Content&amp;sf29609658=1</link>
-            <guid isPermaLink="false">26047c97-072c-499f-8104-934382fd976a</guid>
-            <pubDate>Sat, 23 Jul 2016 22:35:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
