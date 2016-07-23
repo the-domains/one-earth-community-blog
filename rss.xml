@@ -4,8 +4,15 @@
         <description><![CDATA[One Earth Community  Blog]]></description>
         <link>https://thegrid.ai/one-earth-community-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jul 2016 23:22:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2016 23:24:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/one-earth-community-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Killer Whales, Humans Have Much in Common]]></title>
+            <description><![CDATA[<article><h1>Killer Whales, Humans Have Much in Common</h1><p>Humans and killer whales have so much in common that the latter are now serving as a model for our species by showing how ecology, culture and evolution reveal themselves in genomes. Both killer whales, also called orcas, and humans are two of the world's most cosmopolitan animals, given that both include subgroups that migrated and quickly diversified from an ancestral population likely due to climate change.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b9e07f9cb5ab08ad68fa513035b5ddac82c68cdf.jpg"></article>]]></description>
+            <link>http://www.seeker.com/killer-whales-humans-have-much-in-common-1831808826.html?sf27555329=1</link>
+            <guid isPermaLink="false">e09821b6-b27f-4535-8a40-6636b33c82fd</guid>
+            <pubDate>Sat, 23 Jul 2016 23:24:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Freight farms]]></title>
             <description><![CDATA[<article><h1>Freight farms</h1><p>Gaining trust through nourishment </p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fe49f74e60ba2ed63e9a26f419b80df0/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FcQiOl7FyrMk%2Fmaxresdefault.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.bbc.co.uk/news/world-asia-36357465</link>
             <guid isPermaLink="false">cd8113c7-3db6-4245-b2aa-b691ab9c5106</guid>
             <pubDate>Sat, 23 Jul 2016 22:49:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Star is Born]]></title>
-            <description><![CDATA[<article><h1>A Star is Born</h1><p>Check out @Cmdr_Hadfield's Tweet:</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/330cbf0c3df1f198c07fa2f7bda3ac1c06b9c0ba.jpg"></article>]]></description>
-            <link>https://twitter.com/Cmdr_Hadfield/status/739824637543129088?s=09</link>
-            <guid isPermaLink="false">88d348f0-6f45-43d4-805e-71d54bd0f2d3</guid>
-            <pubDate>Sat, 23 Jul 2016 22:49:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
