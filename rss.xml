@@ -4,8 +4,15 @@
         <description><![CDATA[One Earth Community  Blog]]></description>
         <link>https://thegrid.ai/one-earth-community-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jul 2016 22:33:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2016 22:34:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/one-earth-community-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[10 mind-blowing facts about black holes]]></title>
+            <description><![CDATA[<article><h1>10 mind-blowing facts about black holes</h1><p>I really don't believe I would want to be anywhere near such a phenomenal galactic event...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/222cd128c608054580910e4238f7ee32001dd344.jpg"></article>]]></description>
+            <link>http://www.businessinsider.com/10-facts-about-black-holes</link>
+            <guid isPermaLink="false">b9599cdb-b35c-4b9c-8426-6977f8c6d6a2</guid>
+            <pubDate>Sat, 23 Jul 2016 22:34:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="This ion thruster can propel a spacecraft almost indefinitely. http://bit.ly/1TV0jaR" src="https://pbs.twimg.com/media/Cj01aC8WYAAjjxE.jpg:large">]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.sciencechannel.com/tv-shows/how-the-universe-works/videos/todays-sunlight-was-produced-before-human-civilization-began/</link>
             <guid isPermaLink="false">063fffa4-30e0-4d2f-b6b5-616d8d1be57b</guid>
             <pubDate>Sat, 23 Jul 2016 22:23:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Repurposing an old shipping container...]]></title>
-            <description><![CDATA[<article><h1>Repurposing an old shipping container...</h1><p>But Shawn Cooney may have found the greenest use yet -- literally. On a vacant lot near Boston's Logan Airport, Cooney is using four former freight containers -- plus one at another location -- to grow some 30,000 heads of lettuce, herbs and other leafy greens.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/131cded8b1b20898b9b6fee629014fff/noop.jpg?input=http%3A%2F%2Fi2.cdn.turner.com%2Fmoney%2Fdam%2Fassets%2F150609120556-corner-stalk-780x439.jpg"></article>]]></description>
-            <link>http://money.cnn.com/2015/06/24/technology/upstart30-freight-farms/index.html</link>
-            <guid isPermaLink="false">94a35d29-9b1b-4ebc-aad8-3657b15e6b9d</guid>
-            <pubDate>Sat, 23 Jul 2016 22:23:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
