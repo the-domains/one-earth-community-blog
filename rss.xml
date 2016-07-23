@@ -4,8 +4,15 @@
         <description><![CDATA[One Earth Community  Blog]]></description>
         <link>https://thegrid.ai/one-earth-community-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jul 2016 22:37:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2016 22:38:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/one-earth-community-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Check out Mars tonight: It's closer to Earth than it has been in 11 years]]></title>
+            <description><![CDATA[<article><h1>Check out Mars tonight: It's closer to Earth than it has been in 11 years</h1><p>As you wind down from your Memorial Day festivities tonight, take a minute to find Mars glowing yellow and bright in the eastern sky. On the evening of May 30, the Red Planet will come closer to Earth than it has in 11 years.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b0209f4a6a85fc663785a41092014ddc9714cf99.jpg"></article>]]></description>
+            <link>http://www.latimes.com/science/la-sci-sn-mars-close-toearth-20160530-snap-htmlstory.html</link>
+            <guid isPermaLink="false">61e6d5d4-b648-4294-9d33-874839c1b773</guid>
+            <pubDate>Sat, 23 Jul 2016 22:38:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="The ISS is installing new technology to form a Solar System-wide Internet. http://bit.ly/28UCPSh" src="https://pbs.twimg.com/media/Cl9gLywWAAAtHrY.jpg:large">]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.techinsider.io/netflix-documentaries-about-future-2016-6</link>
             <guid isPermaLink="false">f58aaf22-22c3-4c37-b03a-9a0e7544b73c</guid>
             <pubDate>Sat, 23 Jul 2016 22:29:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Big Cats...gentle ]]></title>
-            <description><![CDATA[<article><h1>Big Cats...gentle </h1><p>Keeping a watchful eye. Beauty and speed. Graceful and unforgiving in protecting and providing for her offspring</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c084eb7ad77bc44b229b0c24d8111b0f8095fe6e.jpg"></article>]]></description>
-            <link>https://twitter.com/natgeo/status/735475281746644992</link>
-            <guid isPermaLink="false">0947d128-c977-412a-a17a-a5fedaf50637</guid>
-            <pubDate>Sat, 23 Jul 2016 22:29:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
