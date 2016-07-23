@@ -4,8 +4,15 @@
         <description><![CDATA[One Earth Community  Blog]]></description>
         <link>https://thegrid.ai/one-earth-community-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jul 2016 23:41:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2016 23:42:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/one-earth-community-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Our Oceans ]]></title>
+            <description><![CDATA[<article><h1>Our Oceans </h1><p>Check out @NatGeoPhotos's Tweet:</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1aeee231206c33f5ebd22122d9801a9c9450beca.jpg"></article>]]></description>
+            <link>https://twitter.com/NatGeoPhotos/status/740299567850082304?s=09</link>
+            <guid isPermaLink="false">c4e0b5f7-6f0d-46d7-80d3-383faaae1a28</guid>
+            <pubDate>Sat, 23 Jul 2016 23:42:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Down the Galactic Rabbit Hole...]]></title>
             <description><![CDATA[<article><h1>Down the Galactic Rabbit Hole...</h1><p>Astrophysicists seem to have many theories about what most of us label as just plain mysterious. Imagination guides thinkers in portraying these events as part of futuristic movie adventures. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0f0466b-061e-4651-ba07-adb7300caee2.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://youtu.be/cQiOl7FyrMk</link>
             <guid isPermaLink="false">6bd1b17e-efaa-4507-b2cb-0d5bee06dcbf</guid>
             <pubDate>Sat, 23 Jul 2016 23:22:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hubble Spies the Barred Spiral Galaxy NGC 4394]]></title>
-            <description><![CDATA[<article><h1>Hubble Spies the Barred Spiral Galaxy NGC 4394</h1><p>it’s a long way to go to look for a new home...we really need to take care of planet earth. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/50d0fcc2d89ed412aec67d53e9bbf894b410fb8c.jpg"></article>]]></description>
-            <link>http://www.nasa.gov/image-feature/goddard/2016/hubble-spies-the-barred-spiral-galaxy-ngc-4394/</link>
-            <guid isPermaLink="false">9a5753c0-8d96-4eea-b4c2-ce31cc6b2b14</guid>
-            <pubDate>Sat, 23 Jul 2016 22:57:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
