@@ -4,8 +4,15 @@
         <description><![CDATA[One Earth Community  Blog]]></description>
         <link>https://thegrid.ai/one-earth-community-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jul 2016 22:25:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2016 22:26:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/one-earth-community-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Live from youth boot camp- @pkmuller&apos;s running our Snapchat while shooting in Ukraine! Search #natgeo to join him.pic.twitter.com/Fwd20Is5mq" src="https://pbs.twimg.com/media/CluMVQKWYAA3isL.jpg:large">]]></description>
+            <link>https://twitter.com/natgeophotos/status/746344465951039488</link>
+            <guid isPermaLink="false">3639db47-e9ba-4bd2-8836-3fbeb3e2bd41</guid>
+            <pubDate>Sat, 23 Jul 2016 22:26:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Photos: Top 10 Extreme Environments -- National Geographic]]></title>
             <description><![CDATA[<article><h1>Photos: Top 10 Extreme Environments -- National Geographic</h1><p>Be inspired anew at the world's most intense places-and at your own strength in discovering them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c89c083b47c9d8af3d434a7e7cb79c8e6f146175.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://gizmodo.com/mars-expected-to-reach-closest-distance-to-earth-in-ove-1777971127</link>
             <guid isPermaLink="false">2354eb7b-e33b-43b2-aa1e-9d7582436031</guid>
             <pubDate>Sat, 23 Jul 2016 22:17:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bionic Leaf]]></title>
-            <description><![CDATA[<article><h1>Bionic Leaf</h1><p>Harvard scientists have invented an artificial leaf that quickly and efficiently converts solar energy to fuel.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/06c07d19aee7694e30f0474b3fd540d13a8d2bdf.jpg"></article>]]></description>
-            <link>http://www.sciencechannel.com/tv-shows/science-channel-presents/news/dnews-videos/this-bionic-leaf-can-convert-solar-energy-to-fuel/</link>
-            <guid isPermaLink="false">303161c1-ae66-4ebe-bc47-f0ae793be7ba</guid>
-            <pubDate>Sat, 23 Jul 2016 21:48:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
