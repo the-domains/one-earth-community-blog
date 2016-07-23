@@ -4,8 +4,15 @@
         <description><![CDATA[One Earth Community  Blog]]></description>
         <link>https://thegrid.ai/one-earth-community-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jul 2016 22:52:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2016 22:55:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/one-earth-community-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Maker of Things]]></title>
+            <description><![CDATA[<article><h1>The Maker of Things</h1><p>In the days of slide rules and hand shovels... We were makers of things. Extraordinary things that shaped society. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/35f374b199921ac43185188f3c617f03ab2c9102.jpg"></article>]]></description>
+            <link>https://medium.com/@rands/the-maker-of-things-9c3f23b897a1</link>
+            <guid isPermaLink="false">64b4fadc-bb00-4592-b695-1af12dcf0ded</guid>
+            <pubDate>Sat, 23 Jul 2016 22:54:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Humans of New York: A Vibrant Photographic Census of Diversity and Dignity]]></title>
             <description><![CDATA[<article><h1>Humans of New York: A Vibrant Photographic Census of Diversity and Dignity</h1><p>The ever-evolving portrait of New York City has been painted through Gotham's cats and its dogs, its buildings and its parks, its diaries and its letters. Underpinning all of those, of course, are the city's true building blocks: its humans.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4440b1001b8a8d904fea7230d2ba8c0f/noop.jpg?input=https%3A%2F%2Fi2.wp.com%2Fwww.brainpickings.org%2Fwp-content%2Fuploads%2F2013%2F10%2Fhumansofnewyork2.jpg%3Fw%3D680%26ssl%3D1"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.nationalgeographic.com/travel/travel-interests/tips-and-advice/tuweep-loop-grand-canyon-secret-corner-southwestern-united-states/?utm_source=Twitter&amp;utm_medium=Social&amp;utm_content=link_tw20160524travel-tuweep&amp;utm_campaign=Content&amp;sf26871815=1</link>
             <guid isPermaLink="false">d040b985-f42a-4283-a892-f31d9af4a025</guid>
             <pubDate>Sat, 23 Jul 2016 22:46:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Wind will keep on...]]></title>
-            <description><![CDATA[<article><h1>The Wind will keep on...</h1><p>https://www.theguardian.com/environment/2016/jun/28/us-canada-and-mexico-pledge-50-of-power-from-clean-energy-by-2025</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd9d0ca5-c397-4b28-9d5f-8844e15bb731.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd9d0ca5-c397-4b28-9d5f-8844e15bb731.jpg</link>
-            <guid isPermaLink="false">cf9f1768-e6b1-4b8b-9e90-ce38458e8ecd</guid>
-            <pubDate>Sat, 23 Jul 2016 22:45:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
