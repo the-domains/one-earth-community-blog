@@ -4,8 +4,15 @@
         <description><![CDATA[One Earth Community  Blog]]></description>
         <link>https://thegrid.ai/one-earth-community-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jul 2016 22:34:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2016 22:35:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/one-earth-community-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wind, Cold, and Altitude Sickness: Winter at the South Pole]]></title>
+            <description><![CDATA[<article><h1>Wind, Cold, and Altitude Sickness: Winter at the South Pole</h1><p>Right now, a daring rescue mission is racing against time and harsh conditions to save a sick worker at the South Pole. Dangerous winds, punishing cold, and round-the-clock darkness make flights to Antarctica extremely rare at this time of year.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2d095cdf0eff14804ff3e3e11bec233c/croprotate.jpg?cropheight=1366&cropwidth=2048&degrees=0&input=http%3A%2F%2Fwww.nationalgeographic.com%2Fcontent%2Fdam%2Fadventure%2Frights-exempt%2Fantarctica-south-pole-follow-up%2Fsven-lidstrom-south-pole-night.ngsversion.1466459546179.jpg&x=0&y=0"></article>]]></description>
+            <link>http://www.nationalgeographic.com/adventure/features/south-pole-Antarctica-winter-weather/?utm_source=Twitter&amp;utm_medium=Social&amp;utm_content=link_tw20160625adv-southpole&amp;utm_campaign=Content&amp;sf29609658=1</link>
+            <guid isPermaLink="false">26047c97-072c-499f-8104-934382fd976a</guid>
+            <pubDate>Sat, 23 Jul 2016 22:35:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[10 mind-blowing facts about black holes]]></title>
             <description><![CDATA[<article><h1>10 mind-blowing facts about black holes</h1><p>I really don't believe I would want to be anywhere near such a phenomenal galactic event...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/222cd128c608054580910e4238f7ee32001dd344.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://travel.nationalgeographic.com/travel/photos-top-10-extreme-environments/?sf27982602=1#/tucson-extreme-environment_86070_600x450.jpg</link>
             <guid isPermaLink="false">b45a288d-93de-4c82-9be9-0518ca2cdc19</guid>
             <pubDate>Sat, 23 Jul 2016 22:25:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Even at the speed of light…]]></title>
-            <description><![CDATA[<article><h1>Even at the speed of light…</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c089cf29-0ce2-45ab-8240-f026cf60f507.png"></article>]]></description>
-            <link>http://www.sciencechannel.com/tv-shows/how-the-universe-works/videos/todays-sunlight-was-produced-before-human-civilization-began/</link>
-            <guid isPermaLink="false">063fffa4-30e0-4d2f-b6b5-616d8d1be57b</guid>
-            <pubDate>Sat, 23 Jul 2016 22:23:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
