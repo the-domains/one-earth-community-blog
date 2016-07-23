@@ -4,8 +4,15 @@
         <description><![CDATA[One Earth Community  Blog]]></description>
         <link>https://thegrid.ai/one-earth-community-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jul 2016 22:26:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2016 22:27:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/one-earth-community-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[why don't we pay attention...]]></title>
+            <description><![CDATA[<article><h1>why don't we pay attention...</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9ea95bea8fbd5094c9609b80360ff986/croprotate.jpg?cropheight=1241&cropwidth=1900&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Ff0116989-654c-4a35-b3ed-8c818ca28e9b.jpg&x=0&y=0"></article>]]></description>
+            <link>http://news.nationalgeographic.com/2016/06/star-trek-science-space-astronomy-technology-fazekas/</link>
+            <guid isPermaLink="false">1649a22e-84fb-43fc-b6e3-5a092c66cc7e</guid>
+            <pubDate>Sat, 23 Jul 2016 22:27:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="Live from youth boot camp- @pkmuller&apos;s running our Snapchat while shooting in Ukraine! Search #natgeo to join him.pic.twitter.com/Fwd20Is5mq" src="https://pbs.twimg.com/media/CluMVQKWYAA3isL.jpg:large">]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.vox.com/2016/6/21/11989588/national-pollinator-week-bees-photos</link>
             <guid isPermaLink="false">f0326b28-e62d-42c6-a714-40051ac5d463</guid>
             <pubDate>Sat, 23 Jul 2016 22:18:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mars Expected to Reach Closest Distance to Earth In Over a Decade]]></title>
-            <description><![CDATA[<article><h1>Mars Expected to Reach Closest Distance to Earth In Over a Decade</h1><p>do you have your reservations for the mars colony ?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f4792fcd5e9e3cafd0849139d65d1af982dc153c.jpg"></article>]]></description>
-            <link>http://gizmodo.com/mars-expected-to-reach-closest-distance-to-earth-in-ove-1777971127</link>
-            <guid isPermaLink="false">2354eb7b-e33b-43b2-aa1e-9d7582436031</guid>
-            <pubDate>Sat, 23 Jul 2016 22:17:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
