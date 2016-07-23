@@ -4,8 +4,15 @@
         <description><![CDATA[One Earth Community  Blog]]></description>
         <link>https://thegrid.ai/one-earth-community-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jul 2016 22:46:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2016 22:47:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/one-earth-community-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/beadfba7-643c-4aff-913f-d927e54feaec.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/beadfba7-643c-4aff-913f-d927e54feaec.jpg</link>
+            <guid isPermaLink="false">7cb3c467-2fb9-4c3a-8981-5cb9f19918b5</guid>
+            <pubDate>Sat, 23 Jul 2016 22:46:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tuweep Loop: A Secret Corner of the Southwest]]></title>
             <description><![CDATA[<article><h1>Tuweep Loop: A Secret Corner of the Southwest</h1><p> About 10 years ago we had the good fortune of visiting this area of the United States. We didn't get to this particular</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/632086de7bb1eb55ea89868d750989bb2447d3a6.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://news.nationalgeographic.com/2016/05/160512-friday-13-knights-templar-superstition/</link>
             <guid isPermaLink="false">c9c595d8-e172-4df5-baa7-aebb9cb535e2</guid>
             <pubDate>Sat, 23 Jul 2016 22:38:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Check out Mars tonight: It's closer to Earth than it has been in 11 years]]></title>
-            <description><![CDATA[<article><h1>Check out Mars tonight: It's closer to Earth than it has been in 11 years</h1><p>As you wind down from your Memorial Day festivities tonight, take a minute to find Mars glowing yellow and bright in the eastern sky. On the evening of May 30, the Red Planet will come closer to Earth than it has in 11 years.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b0209f4a6a85fc663785a41092014ddc9714cf99.jpg"></article>]]></description>
-            <link>http://www.latimes.com/science/la-sci-sn-mars-close-toearth-20160530-snap-htmlstory.html</link>
-            <guid isPermaLink="false">61e6d5d4-b648-4294-9d33-874839c1b773</guid>
-            <pubDate>Sat, 23 Jul 2016 22:38:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
