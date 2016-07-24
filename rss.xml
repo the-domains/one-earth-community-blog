@@ -4,8 +4,15 @@
         <description><![CDATA[One Earth Community  Blog]]></description>
         <link>https://thegrid.ai/one-earth-community-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 00:09:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 00:40:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/one-earth-community-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[See the First Solstice Full Moon in More Than 50 Years]]></title>
+            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/36327b94d506373a6ae004f74d0a30a2/croprotate.jpg?cropheight=1200&cropwidth=2048&degrees=0&input=http%3A%2F%2Fnews.nationalgeographic.com%2Fcontent%2Fdam%2Fnews%2F2016%2F06%2F20%2Fstarstruck_0620%2F01_starstruck_0620.ngsversion.1466349398935.jpg&x=0&y=0"><p>Look up at the moon on June 20, and you&apos;ll be witnessing something that has not been seen for almost 70 years. That night, the full moon will rise on the June solstice for the first time since 1948.</p></article>]]></description>
+            <link>http://news.nationalgeographic.com/2016/06/see-solstice-full-moon-night-sky-guide-space-astronomy/?utm_source=Twitter&amp;utm_medium=Social&amp;utm_content=link_tw20160620news-solstice&amp;utm_campaign=Content&amp;sf29116722=1</link>
+            <guid isPermaLink="false">a6f00967-bc47-45bb-a0f2-2a74f755f0ca</guid>
+            <pubDate>Sun, 24 Jul 2016 00:40:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA['Heaven over Hospital': Five-year-old Julianna Snow dies on her own terms]]></title>
             <description><![CDATA[<article><h1>'Heaven over Hospital': Five-year-old Julianna Snow dies on her own terms</h1><p>Julianna Snow, the little girl who touched millions with her approach to terminal illness, died at home in her mother's arms on Tuesday. The five-year-old, who was born with an incurable illness, told her parents she wanted to go to "heaven not hospital" in a conversation that sparked a series on CNN called Heaven over Hospital.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a519ef6532905ce55137475afbe94d4e/noop.jpg?input=http%3A%2F%2Fwww.smh.com.au%2Fcontent%2Fdam%2Fimages%2Fg%2Fp%2Fj%2Fw%2Fn%2F4%2Fimage.related.socialLead.620x349.gpjkfc.png%2F1465978994603.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://news.sky.com/story/1716155/sleeping-black-hole-wakes-to-devour-passing-star</link>
             <guid isPermaLink="false">7f4e3b1f-aa0d-4a96-8548-0586b356555b</guid>
             <pubDate>Sat, 23 Jul 2016 23:41:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Being Smart about energy production and energy consumption go hand in hand...]]></title>
-            <description><![CDATA[<article><h1>Being Smart about energy production and energy consumption go hand in hand...</h1><p>Access the survey results 'State of Industrial Internet Application Development' to learn about latest challenges, trends and opportunities with Industrial IoT, brought to you in partnership with GE Digital. The sun has an efficiency problem. Yes, it produces enough energy every hour to power 2,880 trillion light bulbs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/05b3ca329ddc6151e2678daf9af69e75ba949ec9.jpg"></article>]]></description>
-            <link>https://dzone.com/articles/could-a-smart-water-heater-be-part-of-the-renewabl</link>
-            <guid isPermaLink="false">4685b26b-cd43-4ca4-b77b-80927169e631</guid>
-            <pubDate>Sat, 23 Jul 2016 23:39:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
