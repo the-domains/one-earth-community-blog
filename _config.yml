@@ -13,7 +13,6 @@ color:
     - '#C7CAD1'
 name: One Earth Community  Blog
 navigation:
-  - id: 'https://thegrid.ai/one-earth-community/'
+  - name: back to one earth community
     url: 'https://thegrid.ai/one-earth-community/'
-    name: back to one earth community
     type: external
