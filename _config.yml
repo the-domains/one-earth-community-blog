@@ -1,4 +1,3 @@
-layout_spectrum: 0.1524724557530135
 typography_spectrum: 0.1502309455536306
 color:
   brandStrength: 0.5586520587094128
@@ -11,8 +10,10 @@ color:
     - '#A62626'
     - '#3D588F'
     - '#C7CAD1'
+layout_spectrum: 0.1524724557530135
 name: One Earth Community  Blog
 navigation:
   - name: back to one earth community
     url: 'https://thegrid.ai/one-earth-community/'
     type: external
+description: There is good everywhere
